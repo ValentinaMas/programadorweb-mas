@@ -1,0 +1,88 @@
+h1{
+    text-align: left; 
+    padding-left: 20px;
+    padding-top: 5px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(236, 101, 70);
+}
+
+h2{
+    color: rgb(0, 161, 154);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+h4{
+    color: rgb(0, 161, 154);
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: grey;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.destacados{
+    color:  rgb(236, 101, 70);
+    font-weight: bold;
+}
+
+#caja{
+    width: 300px;
+    height: 300px;
+    background-color: orange;
+    padding: 20px;
+    border: 2px solid beige;
+}
+
+img { 
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+ul{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+hr{
+    width: 50px;
+    margin-left: 20px;
+}
+
+#columna1 {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width: 320px;
+    margin-top:10px;
+}
+
+#columna2 {
+    margin-left: 350px;
+    margin-right: 80px;
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+
+.contenedor{
+	display: inline-flex;
+    flex-wrap: wrap; 
+}
+
+.item{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    text-align: center;
+    padding-bottom: 10px;
+}
