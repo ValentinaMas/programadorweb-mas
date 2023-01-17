@@ -1,0 +1,65 @@
+/*font-family: 'Montserrat', sans-serif;
+*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+.scroll_section {
+    scroll-margin-top: 60px;
+}
+
+h1, 
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+
+.services-titles {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.collapse navbar-collapse {
+    align-items: flex-end;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#presentacion {
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: mediumslateblue;
+    min-height: 250px;
+}
+
+.titulos {
+    align-items: center;
+    justify-content: center;
+}
+
+#servicios {
+    padding-top: 20px;
+}
+
+.item {
+    justify-items: center;
+    display: inline-flex;
+    width: 100px;
+	height: 100px;
+}
+
+.mapa iframe{
+    width: 30%;
+    aspect-ratio: 1.2;
+    margin-left: 100px;
+}
+
+#trabajos {
+    padding-top: 20px;
+}
+
+#contacto {
+    padding-top: 20px;
+}
