@@ -30,8 +30,8 @@ h2 {
     padding-top: 30px;
     padding-left: 200px;
     padding-right: 200px;
-    background-color: mediumslateblue;
-    min-height: 250px;
+    background-color: #8d246e;
+    min-height: 300px;
 }
 
 .titulos {
@@ -50,6 +50,7 @@ h2 {
 	height: 100px;
 }
 
+
 .mapa iframe{
     width: 100%;
     aspect-ratio: 1.2;
@@ -61,4 +62,15 @@ h2 {
 
 #contacto {
     padding-top: 20px;
+}
+
+#novedades {
+    padding-top: 20px;
+}
+
+#cardsnovedades {
+    margin-top: 10px;
+    margin-left: 100px; 
+    margin-right: 100px; 
+    margin-bottom: 100px
 }
